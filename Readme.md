@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Vitalii Kotov](https://up.htmlacademy.ru/htmlcss/20/user/403319).
-* Наставник: `Анна Лисененкова`.
+* Наставник: [Анна Лисененкова] (https://htmlacademy.ru/profile/ankhena).
 
 ---
 
